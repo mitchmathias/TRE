@@ -1,0 +1,12 @@
+
+footer {
+    padding-bottom: 3rem !important;
+    position: sticky bottom;
+}
+ 
+@media only screen and (max-width: 768px) {
+    
+    [class*="media-content"] {
+      width: 100%;
+    }
+}
